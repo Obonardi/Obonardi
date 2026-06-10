@@ -12,35 +12,129 @@
 
 
 
-I am a Cybersecurity professional and automation enthusiast with a passion for building modular, scalable tools that streamline complex technical workflows. 
+Cybersecurity graduate and automation-focused IT professional with hands-on experience building workflow automation, data-processing pipelines, and technical auditing tools using Node.js and Python.
 
 
 
-\## My Focus
-
-My work centers on the full engineering lifecycle—from designing core logic for data-harvesting engines to maintaining documentation that ensures project clarity and correctness. I specialize in:
-
-
-
-\*   \*\*Automation\*\*: Developing utility scripts to handle repetitive dev-environment tasks.
-
-\*   \*\*Security \& Auditing\*\*: Creating custom tools to validate code quality and system integrity.
-
-\*   \*\*Data Intelligence\*\*: Harvesting and processing market signals to support informed decision-making.
-
-
-
-\## Featured Projects
-
-\*   \*\*\[ai-code-auditor]\*\*: A tool for validating code clarity and functional correctness.
-
-\*   \*\*\[task-automation-dashboard]\*\*: A centralized system for monitoring and processing automated workflows.
-
-\*   \*\*\[dev-utilities]\*\*: A curated collection of private-to-public scripts for local environment management.
+Focused on security operations, process optimization, and scalable tooling that reduces manual overhead and improves operational visibility.
 
 
 
 \---
 
-\*Open to collaboration and peer review. Check out my repositories to see my development history.\*
+
+
+\## Technologies
+
+
+
+\- JavaScript / Node.js
+
+\- Python
+
+\- Linux
+
+\- Git / GitHub
+
+\- Crawlee
+
+\- Apify
+
+\- REST APIs
+
+\- Workflow Automation
+
+\- Technical Documentation
+
+
+
+\---
+
+
+
+\## My Focus
+
+
+
+My work centers on the full engineering lifecycle—from designing core logic for automation systems to maintaining documentation that ensures project clarity and operational consistency.
+
+
+
+\### Automation
+
+Developing scalable utility scripts and workflow systems that reduce repetitive manual tasks and improve operational efficiency.
+
+
+
+\### Security \& Auditing
+
+Creating custom tools to validate code quality, support system integrity, and improve visibility into technical processes.
+
+
+
+\### Data Intelligence
+
+Building data-harvesting and processing workflows that transform raw information into actionable operational insights.
+
+
+
+\---
+
+
+
+\## Featured Projects
+
+
+
+\### ai-code-auditor
+
+A Python-based auditing tool focused on validating code clarity, consistency, and functional correctness to support secure and maintainable development practices.
+
+
+
+\### task-automation-dashboard
+
+Centralized Node.js dashboard for monitoring automated workflows, improving task visibility, and reducing manual process-tracking overhead.
+
+
+
+\### dev-utilities
+
+A curated collection of reusable scripts and developer utilities for local environment management, automation, and workflow optimization.
+
+
+
+\### market-intelligence-engine
+
+Automation-focused data collection and processing engine designed to aggregate and organize market intelligence signals for analysis and operational decision-making.
+
+
+
+\---
+
+
+
+\## Current Interests
+
+
+
+\- Security Operations (SOC)
+
+\- Workflow Automation
+
+\- AI/ML Data Pipelines
+
+\- Process Optimization
+
+\- Technical Operations
+
+\- Cybersecurity Analysis
+
+
+
+\---
+
+
+
+Open to collaboration, technical discussions, and peer review. Explore my repositories to view current projects, tooling experiments, and development activity.
 
