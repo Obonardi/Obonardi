@@ -1,8 +1,27 @@
 # Hello, I'm Olivia Bonardi
 
-I'm a cybersecurity graduate with professional experience evaluating AI-generated responses through Outlier and the Handshake AI Fellowship. My work includes identifying factual errors, assessing reasoning and improving response quality. I also have technical customer support experience and a Six Sigma Green Belt certification.
+I've worked in AI evaluation since 2023. I'm particularly interested in why models produce incorrect responses and how changes to prompts affect their output. My background in cybersecurity, technical support and manufacturing has shaped how I approach troubleshooting and quality improvement.
 
-I use personal projects to explore practical automation and quality assurance with Python and JavaScript.
+I use personal projects to explore practical automation with Python and JavaScript.
+
+## Professional experience
+
+- **Handshake AI Fellowship (May 2026–present):** Domain-specific prompt evaluation and LLM testing for accuracy and safety.
+- **Outlier (October 2023–present):** Evaluating AI-generated responses, identifying factual errors and reasoning gaps, and improving response quality.
+- **Shyftoff (October 2025–present):** Technical customer support, investigating system issues and documenting findings. Maintained a 98% quality rating.
+- **Dwyer Instruments:** Manufacturing line leadership, product testing and process improvement. Helped increase productivity by 25% through a 5S workplace redesign.
+
+## Education
+
+**Purdue University — Bachelor's degree in Cybersecurity (IT)**  
+GPA: 3.94/4.0
+
+## Certifications
+
+- CompTIA A+
+- ISC2 Certified in Cybersecurity (CC)
+- Google IT Support Professional Certificate
+- Six Sigma Green Belt
 
 ## Featured projects
 
